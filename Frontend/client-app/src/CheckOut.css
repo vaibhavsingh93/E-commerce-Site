@@ -1,0 +1,22 @@
+
+.ctrline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+  
+   
+}
+.cthline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    width: 16%;  
+}
+.ctdline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: large;
+    font-weight: 200;
+   
+
+} 

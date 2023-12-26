@@ -1,0 +1,25 @@
+
+.trline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    
+}
+.thline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    width: 30%;
+}
+.tdline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    letter-spacing: 1.5px;
+   padding: 20px;
+}
+
+
+
+
+ 

@@ -1,0 +1,24 @@
+/* *{
+    background: bisque;;
+   
+}   */
+
+.trline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+  
+   
+}
+.thline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    
+}
+.tdline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    letter-spacing: 1.5px;
+}

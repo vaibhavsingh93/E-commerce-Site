@@ -1,0 +1,24 @@
+
+.ptrline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+
+   
+}
+.pthline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    width: 15%;  
+ 
+}
+.ptdline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: large;
+    font-weight: 200;
+
+} 
+
+

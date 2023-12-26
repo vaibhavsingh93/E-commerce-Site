@@ -1,0 +1,29 @@
+
+.sptrline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+
+   
+}
+.spthline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: larger;
+    width: 15%;  
+ 
+}
+.sptdline{
+    border: 1px solid black;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
+/* .imgset{
+    display: block;
+  margin-left: auto;    
+  margin-right: auto;
+  width: 50%; 
+  height:50%;  
+}  */
